@@ -106,3 +106,103 @@ Cleaned + standardized.
 - MAPE
 - RMSE
 - SMAPE
+
+---
+
+# 📉 Variance Analysis (THE IMPORTANT PART)
+For each quarter compute:
+- YoY Change (%)
+- QoQ Change (%)
+- Contribution Breakdown:
+  - Product Mix
+  - Region
+  - Cost Efficiency
+  - Market Conditions
+  - FX Impact
+ 
+## Example Variance Output
+| factor            | contribution |
+| ----------------- | ------------ |
+| APAC Growth       | +3.4%        |
+| Cloud Business    | +2.2%        |
+| FX Headwinds      | −1.1%        |
+| Ad Market Decline | −0.8%        |
+
+### Auto-Generated Business Commentary Example
+> “Revenue increased 7.2% driven primarily by strong APAC performance and growth in Cloud services, partially offset by FX headwinds and weaker ad demand.”
+
+---
+
+# 🧪 Scenario Simulation
+
+Built sliders for:
+- Revenue shocks
+- Market decline
+- Cost optimization
+- User growth changes
+- FX shifts
+
+Simulates financial future impact.
+
+---
+
+# 📊 Dashboard
+Options:
+- Streamlit App
+- Power BI
+- Looker Studio
+
+### Dashboard Sections
+- KPI card
+- Forecast vs Actual
+- Variance Decomposition
+- Scenario Planner
+- Narrative Insights
+
+---
+
+# 📦 Deliverables
+✔️ Structured SQL schema
+✔️ Python Notebook Forecasting
+✔️ Variance Engine
+✔️ Business Dashboard
+✔️ 1-Page Executive Insight Report
+
+---
+
+# 🛠️ Tech Stack
+## Languages
+- Python
+- SQL
+
+## Libraries
+- pandas
+- numpy
+- statsmodels
+- prophet
+- scikit-learn
+- matplotlib / seaborn
+
+## Platforms
+- PostgreSQL / BigQuery
+- Streamlit / Power BI
+
+---
+
+# 🧠 Business Value Demonstration
+
+This project showcases:
+- Finance understanding
+- Business analytics thinking
+- Real-world FP&A skills
+- Ability to communicate insights
+- End-to-end system thinking
+
+---
+
+# 🙌 Credits
+
+## Data Sources:
+- SEC
+- Yahoo Finance
+- Kaggle
