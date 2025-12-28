@@ -12,4 +12,5 @@ This project builds an end-to-end financial analytics system to:
 - Present results in a business storytelling dashboard
 
 This mirrors how Google Finance, Meta Finance, Amazon FP&A and Strategy Analytics teams operate:
-""""not just predicting numbers…but explaining the business behind the numbers."""
+
+|not just predicting numbers…but explaining the business behind the numbers.|
